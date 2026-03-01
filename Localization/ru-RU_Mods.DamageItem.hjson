@@ -1,0 +1,67 @@
+Configs: {
+	RandomConfig: {
+		AutoDeleteOnFull: {
+		}
+
+		UltraHardcore: {
+		}
+
+		IncludeModdedItems: {
+		}
+
+		EveryTickDamage: {
+		}
+
+		ShowCounter: {
+		}
+
+		VisualEffects: {
+		}
+
+		EnableJackpots: {
+		}
+
+		ProjectileCounter: {
+		}
+
+		GravityChaos: {
+		}
+
+		InfiniteSummons: {
+			// Tooltip: ""
+			// Label: Infinite Summons
+		}
+
+		PlaySoundOnLoot: {
+		}
+
+		Headers: {
+			// ItemsSettings: Items Settings Header
+			// ChallengesSettings: Challenges Settings Header
+			// EffectsSettings: Effects Settings Header
+			// OtherSettings: Other Settings Header
+			// BuffSettings: Buff Settings Header
+		}
+
+		LuckMultiplier: {
+		}
+
+		BossSpawnChallenge: {
+		}
+
+		EnableEvents: {
+		}
+
+		UltraHardcoreEvents: {
+		}
+
+		ShowWelcomeMessage: {
+		}
+
+		UseCustomSound: {
+		}
+
+		SpeedBoost: {
+		}
+	}
+}

@@ -1,0 +1,4 @@
+author = MurZikk
+version = 1.1
+displayName = Random Items On Damage
+modLoaderVersion = 2026.1

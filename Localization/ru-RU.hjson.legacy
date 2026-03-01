@@ -1,0 +1,41 @@
+Mods: {
+	DamageItem: {
+		Configs: {
+			RandomConfig: {
+				DisplayName: Настройки Безумного Рандома
+				Headers.Настройкилута: Настройки предметов
+				Headers.Режимыурона: Режимы урона
+				Headers.Челленджииэффекты: Челленджи и Эффекты
+
+				IncludeModdedItems: {
+					Label: Предметы из других модов
+					Tooltip: Включает вещи из Calamity, Thorium и др.
+				}
+				UltraHardcore: {
+					Label: Режим "Пылинка"
+					Tooltip: Выпадают даже пустые ID и технический мусор.
+				}
+				EveryTickDamage: {
+					Label: Настоящий урон (Каждый тик)
+					Tooltip: Лут сыпется от каждой единицы урона (яд, лава).
+				}
+				AutoDeleteOnFull: {
+					Label: Удалять при полном инвентаре
+					Tooltip: Если места нет, предмет уничтожается.
+				}
+				EnableJackpots: {
+					Label: Джекпоты (1%)
+					Tooltip: Шанс получить гору лута сразу!
+				}
+				VisualEffects: {
+					Label: Визуальные эффекты
+					Tooltip: Искры при получении предметов.
+				}
+				ShowCounter: {
+					Label: Счётчик над головой
+					Tooltip: Показывает общее число полученных вещей.
+				}
+			}
+		}
+	}
+}

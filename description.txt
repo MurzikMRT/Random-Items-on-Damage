@@ -1,0 +1,2 @@
+This mod adds a feature that when you take damage, you get a random item! 
+A very fun mod with a config to customize for yourself, from luck settings to ultrahardcore!

@@ -1,0 +1,97 @@
+Mods: {
+	DamageItem: {
+		Configs: {
+			RandomConfig: {
+				DisplayName: Damage Item Config
+
+				Headers: {
+					Items: Items Settings
+					Challenges: Challenges & Hazards
+					Buffs: Player Buffs
+					Effects: Visuals & Sounds
+					Other: Info
+				}
+
+				IncludeModdedItems: {
+					Label: Include Modded Items
+					Tooltip: Allows the mod to drop items from other installed mods.
+				}
+
+				UltraHardcore: {
+					Label: Ultra Hardcore Mode
+					Tooltip: WARNING: You drop items on death AND trigger much more dangerous events on hit!
+				}
+
+				LuckMultiplier: {
+					Label: Luck Multiplier
+					Tooltip: Increases the quality of dropped items (up to 100x).
+				}
+
+				EveryTickDamage: {
+					Label: Every Tick Drop
+					Tooltip: Items drop every time you take any damage, even tiny.
+				}
+
+				BossSpawnChallenge: {
+					Label: Boss Chaos
+					Tooltip: Random bosses can spawn when you take damage.
+				}
+
+				EnableEvents: {
+					Label: Enable Random Events
+					Tooltip: Triggers chaotic events on hit (Shuffling, Flight, Debuffs).
+				}
+
+				GravityChaos: {
+					Label: Gravity Flip
+					Tooltip: Chance to flip gravity when hit.
+				}
+
+				ProjectileCounter: {
+					Label: Projectile Rain
+					Tooltip: Chance to trigger a rain of projectiles when hit.
+				}
+
+				SpeedBoost: {
+					Label: Speed Multiplier (1.5x)
+					Tooltip: Permanent movement speed increase.
+				}
+
+				AutoDeleteOnFull: {
+					Label: Auto Delete on Full Inventory
+					Tooltip: Items won't drop if your inventory is full.
+				}
+
+				EnableJackpots: {
+					Label: Enable Jackpots
+					Tooltip: Small chance to get a massive item drop (20-50 items).
+				}
+
+				VisualEffects: {
+					Label: Particles & Dust
+					Tooltip: Enables special effects for rare items and hits.
+				}
+
+				ShowCounter: {
+					Label: Loot Counter
+					Tooltip: Shows total items received above your head.
+				}
+
+				PlaySoundOnLoot: {
+					Label: Sound Effects
+					Tooltip: Plays a sound when receiving items.
+				}
+
+				UseCustomSound: {
+					Label: Use Custom Sound
+					Tooltip: Uses your file from Sounds/CustomLootSound.wav.
+				}
+
+				ShowWelcomeMessage: {
+					Label: Welcome Message
+					Tooltip: Shows the mod author (MurZikk) message on join.
+				}
+			}
+		}
+	}
+}
